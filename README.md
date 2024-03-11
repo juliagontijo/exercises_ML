@@ -1,5 +1,5 @@
 # Exercises ML Self-study
-Tracking improvement on self-study about LLM / ML / NPL.
+Tracking improvement on self-study about LLM / ML / NLP.
 
 Goals: 
 - understand the entire pipeline and architecture of Large Language Models
