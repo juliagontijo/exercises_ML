@@ -15,9 +15,9 @@ Topics to learn:
 - Fine Tuning
 - AI Agents
 
-## [Exercises](https://github.com/juliagontijo/self_study/Exercises)
+## [Exercises](https://github.com/juliagontijo/self_study/blob/main/Exercises%20)
 Solved exercises, proposed by online videos/tutorials/courses to check content understanding by the end of the lecture.
-Go to [README](https://github.com/juliagontijo/self_study/Exercises/README.md) for description and linked resources used in each exercise.
+Go to [README](https://github.com/juliagontijo/self_study/blob/main/Exercises%20/README.md) for description and linked resources used in each exercise.
 
 ## [Projects](https://github.com/juliagontijo/self_study/tree/main/Projects)
 Projects to practice and implement different levels of LLM pipeline
