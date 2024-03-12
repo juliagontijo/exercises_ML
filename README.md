@@ -1,11 +1,11 @@
-# Exercises ML Self-study
+# Self-study
 Tracking improvement on self-study about LLM / ML / NLP.
 
 Goals: 
-- understand the entire pipeline and architecture of Large Language Models
-- apply SOTA (state of the art) otimization methods
+- understand Large Language Models Large Language Models (LLMs) architecture and optimization techniques
+- apply what I've learned to projects with SOTA methods
 
-Topics:
+Topics to learn:
 - Data prep for training
 - Base Models - pre training
 - Fine tuning
@@ -15,13 +15,15 @@ Topics:
 - Fine Tuning
 - AI Agents
 
-## Exercises
-Exercises folder hold some solved exercises proposed by online video/tutorials to check content understanding by the end of the lecture.
-- [Link do Micrograd exercise]: from [link to micrograd video]
+## [Exercises](https://github.com/juliagontijo/self_study/Exercises)
+Solved exercises, proposed by online videos/tutorials/courses to check content understanding by the end of the lecture.
+Go to [README](https://github.com/juliagontijo/self_study/Exercises/README.md) for description and linked resources used in each exercise.
 
-## Projects
+## [Projects](https://github.com/juliagontijo/self_study/Projects)
 Projects to practice and implement different levels of LLM pipeline
-- [link to colab with finetuning]: [link to resources]
+Go to [README](https://github.com/juliagontijo/self_study/Projects/README.md) for description and linked resources used in each project.
 
 ## Overall resources
-- links
+- [Lighning.ai by Sebastian Raschka](https://lightning.ai/sebastian)
+- [HuggingFace](https://huggingface.co/)
+- [philschmid Github repo](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/instruction-tune-llama-2-int4.ipynb)
