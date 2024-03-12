@@ -21,7 +21,7 @@ Go to [README](https://github.com/juliagontijo/self_study/Exercises/README.md) f
 
 ## [Projects](https://github.com/juliagontijo/self_study/tree/main/Projects)
 Projects to practice and implement different levels of LLM pipeline
-Go to [README](https://github.com/juliagontijo/self_study/Projects/README.md) for description and linked resources used in each project.
+Go to [README](https://github.com/juliagontijo/self_study/blob/main/Projects/README.md) for description and linked resources used in each project.
 
 ## Overall resources
 - [Lighning.ai by Sebastian Raschka](https://lightning.ai/sebastian)
