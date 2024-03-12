@@ -19,7 +19,7 @@ Topics to learn:
 Solved exercises, proposed by online videos/tutorials/courses to check content understanding by the end of the lecture.
 Go to [README](https://github.com/juliagontijo/self_study/Exercises/README.md) for description and linked resources used in each exercise.
 
-## [Projects](https://github.com/juliagontijo/self_study/Projects)
+## [Projects](https://github.com/juliagontijo/self_study/tree/main/Projects)
 Projects to practice and implement different levels of LLM pipeline
 Go to [README](https://github.com/juliagontijo/self_study/Projects/README.md) for description and linked resources used in each project.
 
