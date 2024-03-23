@@ -19,8 +19,8 @@ Results were seen through [Wandb](https://wandb.ai/site) interface (integrated i
 
 ### Results 
 At first, the eval lost was spikey and with bad loss.
-![alt text](https://github.com/juliagontijo/self_study/edit/main/Projects/img/train_loss.png?raw=true)
-![alt text](https://github.com/juliagontijo/self_study/edit/main/Projects/img/eval_loss.png?raw=true)
+![alt text](https://github.com/juliagontijo/self_study/blob/main/Projects/img/train_loss.png)
+![alt text](https://github.com/juliagontijo/self_study/blob/main/Projects/img/eval_loss.png)
 
 Was training on 5000 rows of the dataset, with batch size = 2 and learning rate = 3e-5.
 Training was also really slow due to the amount of data.
