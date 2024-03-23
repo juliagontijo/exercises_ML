@@ -25,7 +25,7 @@ At first, the eval lost was spikey and with bad loss.
 Was training on 5000 rows of the dataset, with batch size = 2 and learning rate = 3e-5.
 Training was also really slow due to the amount of data.
 Updates parameters and the best result I got was:
-![alt text](https://github.com/juliagontijo/self_study/edit/main/Projects/img/old_loss.png?raw=true)
+![alt text](https://github.com/juliagontijo/self_study/blob/main/Projects/img/old_loss.png)
 
 Final parameters:
 - 1000 rows: 800 train 200 test
