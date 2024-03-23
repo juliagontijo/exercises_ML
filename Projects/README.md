@@ -46,7 +46,7 @@ Throught the process I learned that:
 - Adjusting batch_size is really important for the models performance. 2 is a really low batch_size, but too large batches can take up too many GPU space and it won't work (had only 1 GPU available). Also, batch_size is the number of samples used in one forward backward pass on the network.
 - Decreasing learning rate may help with overfitting. The model may be going too fast and just memorizing it, not really learning.
 - Tokens are different for each model.
-- GPUs are really valiable (and compute units on Google Colab hahaha)
+- GPUs are really valuable (and compute units on Google Colab hahaha)
 - Prompting engineering is good but at a certain point. If I ask the model for a code in a instruction - input - ouput manner, it can output something kinda okay (the code itself) but then it always mumbles random things related to it. Fine tuning is more robust. This beeing said, to check if a model is good or not at answering to some prompt, don't format the prompt in a instruction way or anything like that (you're just going to be helping the model and not checking if it actuallt can respond well)
 
 ### Work to improve
